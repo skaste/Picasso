@@ -25,7 +25,6 @@ section{
   background-color: bisque;
   border-radius: 50%;
   display: inline-flex;
-  align-self: flex-start;
   flex-direction: column;
 }
 #dot1{
@@ -36,6 +35,7 @@ section{
 #dot2{
   display: inline-flex;
   padding: 10px;
+  align-self: none;
 }
 #dot3{
   display: inline-flex;
