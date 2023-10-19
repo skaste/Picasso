@@ -87,7 +87,7 @@ div{display: flex;
   align-self: flex-end;
 }
 form{
-  color:deeppink;
+  color:darkseagreen;
 }
 
 @media (max-width:1680px){
@@ -98,4 +98,14 @@ body{background-color: yellow;}
 }
 @media (max-width:480px){
 body{background-color: darkgreen;}
+}
+h2{color:darksalmon;
+text-align:center;
+justify-content: center;
+display:flex;}
+.contact-info{
+  text-align:center;
+  display:flex;
+  flex-direction: column;
+  align-content: center;
 }
